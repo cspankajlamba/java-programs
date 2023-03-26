@@ -1,5 +1,4 @@
-# java-programs
-# this folder contains Basic Java example programs to practice Java Programming Language
+It contains Java example programs to practice Java Programming problem questions
 
 # Folder Structure
  1. license file
